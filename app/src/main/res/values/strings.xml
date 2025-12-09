@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Vehicle Vocabulary</string>
+    <string name="home">Home</string>
+    <string name="vocabulary">Vocabulary</string>
+    <string name="profile">Profile</string>
+    <string name="start_learning">Start Learning</string>
+    <string name="back">Back</string>
+    <string name="pronounce">Pronounce</string>
+
+    <!-- Vehicles -->
+    <string name="helicopter">Helicopter</string>
+    <string name="helicopter_id">Helikopter</string>
+    <string name="car">Car</string>
+    <string name="car_id">Mobil</string>
+    <string name="motorcycle">Motorcycle</string>
+    <string name="motorcycle_id">Motor</string>
+    <string name="airplane">Airplane</string>
+    <string name="airplane_id">Pesawat Terbang</string>
+    <string name="bus">Bus</string>
+    <string name="bus_id">Bus</string>
+    <string name="train">Train</string>
+    <string name="train_id">Kereta Api</string>
+    <string name="ship">Ship</string>
+    <string name="ship_id">Kapal</string>
+    <string name="bicycle">Bicycle</string>
+    <string name="bicycle_id">Sepeda</string>
+    <string name="truck">Truck</string>
+    <string name="truck_id">Truk</string>
+    <string name="boat">Boat</string>
+    <string name="boat_id">Perahu</string>
+
+    <!-- Profile -->
+    <string name="student_name">Wahyu Ardhiyas Saputra</string>
+    <string name="student_nim">22533547</string>
+    <string name="student_class">TI-7A</string>
+</resources>
